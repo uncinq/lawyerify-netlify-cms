@@ -1,4 +1,4 @@
-**This is a old module, now get https://github.com/Hugolify/lawyerify-decap-cms**
+> **This is a old module, now get https://github.com/uncinq/lawyerify-decap-cms**
 
 ---
 
@@ -14,8 +14,8 @@
 - [Documentations](#documentations)
 - [License](#license)
 
-
 ## Features
+
 - rubrics `create false`
 - pages
 - persons
@@ -36,24 +36,28 @@
 
 ## Screenshot
 
-
 ## Depend repository
-* Hugolify Netlify CMS : [Hugolify template](https://github.com/hugolify/hugolify-netlify-cms)
+
+* Hugolify Netlify CMS : https://github.com/hugolify/hugolify-netlify-cms
 
 ## Live demo
+
 - Front: https://demo.lawyerify.io
 
 ## Install
 
 Edit `config/_default/module.yaml` to install the `lawyerify-netlify-cms` module with `hugolify-netlify-cms`:
+
 ```yml
 imports:
-  - path: github.com/hugolify/lawyerify-netlify-cms
+  - path: github.com/uncinq/lawyerify-netlify-cms
   - path: github.com/hugolify/hugolify-netlify-cms
 ```
 
 ## Documentations
-https://github.com/hugolify/hugolify-template/wiki
+
+https://www.hugolify.io
 
 ## License
+
 Hugolify is free for personal or commercial projects (MIT license)

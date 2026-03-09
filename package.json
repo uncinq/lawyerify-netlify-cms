@@ -2,9 +2,9 @@
     "name": "lawyerify-netlify-cms",
     "version": "1.3.0",
     "homepage": "https://www.lawyerify.io",
-    "repository": "https://github.com/hugolify/lawyerify-netlify-cms",
+    "repository": "https://github.com/uncinq/lawyerify-netlify-cms",
     "bugs": {
-        "url": "https://github.com/hugolify/lawyerify-netlify-cms/issues"
+        "url": "https://github.com/uncinq/lawyerify-netlify-cms/issues"
     },
     "author": {
         "name": "Sébastien Moulène",

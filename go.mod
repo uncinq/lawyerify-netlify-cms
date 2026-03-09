@@ -1,3 +1,3 @@
-module github.com/hugolify/lawyerify-netlify-cms
+module github.com/uncinq/lawyerify-netlify-cms
 
-go 1.19
+go 1.21
